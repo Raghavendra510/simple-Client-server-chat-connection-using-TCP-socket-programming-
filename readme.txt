@@ -6,10 +6,10 @@ Group members : P.Reddy Raghavendra (23CS01049) , S. Tagur Deepak (23CS01059)
 
 -> we have two files server and client 
 ->to run :
-            compile server : gcc -o server.c s -lpthread
+            compile server : gcc server.c -o s -lpthread
             run : ./s <port_number>
 
-            compile clients in different terminals : gcc -o client .c c -lpthread
+            compile clients in different terminals : gcc  client.c -o c -lpthread
             run : ./c <server_ip> <port_number>
 
 ->usage : 
