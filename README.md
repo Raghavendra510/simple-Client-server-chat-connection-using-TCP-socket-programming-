@@ -7,8 +7,8 @@ TCP CONNECTION USING SOCKET PROGRAMMING IN C LANGUAGE
             compile server : gcc server.c -o s -lpthread
             run : ./s <port_number>
 
-            compile clients in different terminals : gcc  client.c -o c -lpthread
-            run : ./c <server_ip> <port_number>
+  compile clients in different terminals : gcc  client.c -o c -lpthread
+  run : ./c <server_ip> <port_number>
 
 ->usage : 
         each client has a name 
