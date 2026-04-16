@@ -1,4 +1,6 @@
-# simple-Client-server-chat-in-TCP CONNECTION USING SOCKET PROGRAMMING IN C LANGUAGE 
+# simple-Client-server-chat-
+
+TCP CONNECTION USING SOCKET PROGRAMMING IN C LANGUAGE 
 
 -> we have two files server and client 
 ->to run :
